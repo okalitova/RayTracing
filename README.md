@@ -2,6 +2,7 @@
 ## Renders images using ray tracing technique
 + works with (semi)mirrors/(semi)transparant/(semi)refractive objects
 + opportunity to add patterns
++ multithreading
 
 
 Instructions:
