@@ -3,6 +3,9 @@
 + works with (semi)mirrors/(semi)transparant/(semi)refractive objects
 + opportunity to add patterns
 
+
+Instructions:
+
 + to run: run run-test.sh
 + to use certain input: change input file in main.cpp
 + input examples: input\*.txt files
