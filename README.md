@@ -14,3 +14,11 @@ Instructions:
 
 A little bit broken after some "fixes" :(
 Isn't refactored to be in the perfect readable state
+
+Examples in the current state:
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output.png)
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output1.png)
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output2.png)
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output3.png)
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output4.png)
+![alt text](https://github.com/okalitova/RayTracing/blob/master/output5.png)
